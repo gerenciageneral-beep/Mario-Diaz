@@ -1,0 +1,8 @@
+{
+  "name": "Asisbot THC",
+  "description": "Asistente virtual de THE HOSPITALITY CENTER",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
